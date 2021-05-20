@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://root:toor@cluster0.fuzwn.mongodb.net/ops?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret2",
+    "githubClientId":"6f0c022c8385a8a1ccf1",
+    "githubSecret": "465d64ccdf799b9a25fd52c7ce092e6eba352748"
+}
